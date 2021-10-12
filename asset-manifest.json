@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.1cbd5d75.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.5cc77b21.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.5cc77b21.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.b442b5e3.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.b442b5e3.js.map",
+    "static/js/2.4263fb51.chunk.js": "/react-gh-pages/static/js/2.4263fb51.chunk.js",
+    "static/js/2.4263fb51.chunk.js.map": "/react-gh-pages/static/js/2.4263fb51.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "static/css/main.1cbd5d75.chunk.css.map": "/react-gh-pages/static/css/main.1cbd5d75.chunk.css.map",
+    "static/js/2.4263fb51.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.4263fb51.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-gh-pages/static/media/middle_titre.dec056c3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b442b5e3.js",
+    "static/js/2.4263fb51.chunk.js",
+    "static/css/main.1cbd5d75.chunk.css",
+    "static/js/main.5cc77b21.chunk.js"
+  ]
+}
